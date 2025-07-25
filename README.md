@@ -82,9 +82,4 @@ Arijit Bhattacharjee
 📧 ab9777816@gmail.com
 📞 +91-9073930881
 
-⸻
 
-✅ Future Work in wish list 
-	•	Apply K-Means clustering for dynamic segmentation
-	•	Deploy dashboard to a web app or Power BI Cloud
-	•	Add automated RFM score updater for live systems
