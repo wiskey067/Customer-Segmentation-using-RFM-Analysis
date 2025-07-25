@@ -80,6 +80,6 @@ Once the RFM scores were generated in Python, the final dataset was exported and
 
 Arijit Bhattacharjee
 📧 ab9777816@gmail.com
-📞 +91-9073930881
+
 
 
